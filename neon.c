@@ -10,7 +10,7 @@
 
 int main()
 {
-    /* Coisas relacionadas aos chars */
+    /* Coisas relacionadas aos chars alala */
     int i,j,x,y;
     /* Coisas relacioinadas ao mapa */
 	int mapsize,xtile[TAM],ytile[TAM],xcorte[TAM],ycorte[TAM];
